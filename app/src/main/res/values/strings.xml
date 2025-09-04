@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="etNombreUsuario">Usuario</string>
+    <string name="etNombreCompleto">Nombre Completo</string>
+    <string name="etContraseña">Contraseña</string>
+    <string name="btCrear">CREAR USUARIO</string>
+    <string name="tvIngresar">Ingresar</string>
+    <string name="btIngresar">INGRESAR</string>
+    <string name="btClientes">CREAR CLIENTE</string>
+    <string name="btVehiculo">CREAR VEHICULO</string>
+    <string name="btServicios">SERVICIOS</string>
+    <string name="btReportes">REPORTES</string>
+    <string name="btVolver">VOLVER</string>
+    <string name="etCarnet">Carnet o NIT</string>
+    <string name="etCelular">Celular</string>
+    <string name="etRegistro">Registrar</string>
+    <string name="etDueno">CI del Dueño</string>
+    <string name="etPlaca">Placa</string>
+    <string name="etModelo">Modelo</string>
+    <string name="etAnio">Año</string>
+    <string name="etMarca">Marca</string>
+    <string name="tvTituloServ">Servicios Disponibles</string>
+    <string name="tvTituloD">Seleccione al Cliente</string>
+    <string name="tvTituloDyV">Seleccione el Vehiculo</string>
+    <string name="btVolverserv">Volver a Servicios</string>
+    <string name="tvTExtras">Servicios Extras</string>
+    <string name="cbCambioA">Cambio de Aceite 50$</string>
+    <string name="cbCambioF">Cambio de Filtro 30$</string>
+    <string name="cbLlenadoLF">Llenado Liquido Frenos 20$</string>
+    <string name="cbLlenadoLR">Llenado Liquido Refrigerante 25$</string>
+    <string name="costo">Costo en Bs</string>
+    <string name="descripcion">Descripcion Servicio</string>
+    <string name="selEmp">Seleccione Empleado</string>
+    <string name="selSer">Seleccione Servicio</string>
+    <string name="selecCli">Seleccione Cliente</string>
+    <string name="tvResumen">Resumen</string>
+
+</resources>
